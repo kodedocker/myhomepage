@@ -1,6 +1,5 @@
 {
   "name": "myhomepage",
-  "homepage": "https://kodedocker.github.io/myhomepage",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
